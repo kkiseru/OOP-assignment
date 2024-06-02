@@ -1,2 +1,2 @@
-# OOP-assignment
-OOP assignmetn with scala
+# OOP-assignment1
+OOP assignment with scala
